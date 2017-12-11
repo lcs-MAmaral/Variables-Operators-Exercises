@@ -102,8 +102,10 @@ var randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
-
-
+var year = 2017
+let test = "Matthew"
+year = test
+print("the reason this does not run is becasue there is a syntax error because the code is trying to assign one data type to another ")
 /*:
  ### Question 7
  
