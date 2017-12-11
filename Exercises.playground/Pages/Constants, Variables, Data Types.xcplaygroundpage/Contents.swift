@@ -36,6 +36,10 @@
  */
 // Answer Question 1 below
 
+let studentFirst = "Matthew"
+let studentLast = "Amaral"
+var studentCurrentGrade = 89
+let studentNovemberGrade = 94
 /*:
  ### Question 2
  
@@ -47,16 +51,17 @@
  
  */
 // Answer Question 2 below
-
-
+let myAge : Int = 16
+let otherAge : Double = 40.0
+let averageAge : Double = (Double(myAge) + otherAge) / 2
 /*:
  ### Question 3
  
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this constant.
  */
 // Answer Question 3 below
-
-
+let favHobby : String = "Hockey"
+//i used a constant here becasue i feel that a person favorite hobby would not change over a short period of time
 /*:
  ### Question 4
  
@@ -66,6 +71,7 @@
  */
 // Answer Question 4 below
 
+print("")
 
 /*:
  ### Question 5
