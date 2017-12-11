@@ -71,7 +71,7 @@ let favHobby : String = "Hockey"
  */
 // Answer Question 4 below
 
-print("")
+print(" Coders use immutable/constants for many reason from it saves room in the prossing power or it gives them a check in there code if the mess up later in the ")
 
 /*:
  ### Question 5
@@ -82,7 +82,7 @@ print("")
  
  */
 // Answer Question 5 below
-
+var randomDemand = 1_000_000
 /*:
  ### Question 6
  
